@@ -108,9 +108,8 @@ records from records that need further investigation.
 I'm always happy to connect with people who enjoy data, AI, open-source
 projects, and learning by building.
 
--   **GitHub:** \[Add your GitHub profile URL\]
--   **LinkedIn:** \[Add your LinkedIn profile URL\]
--   **Email:** \[Add a professional email address\]
+-   **LinkedIn:** www.linkedin.com/in/abhishek-rawat-a459b5255
+-   **Email:** 22f3000818@ds.study.iitm.ac.in
 
 ------------------------------------------------------------------------
 
